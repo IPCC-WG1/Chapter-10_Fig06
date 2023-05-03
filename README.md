@@ -1,6 +1,8 @@
 ILLUSTRATION OF MODEL BIASES WESTERN MEDITERRANEAN
 ==================================================
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6787483.svg)](https://doi.org/10.5281/zenodo.6787483)
+
 Figure number: Figure 10.6
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 10
 
